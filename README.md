@@ -2,7 +2,7 @@
 
 # Hi there 👋, my name is Sudipta Tung
 
-Skills: ANGULAR / REACT JS / JS / Node JS / Laravel / HTML / CSS
+Skills: ANGULAR / REACT JS / JS / NODE JS / LARAVEL / HTML / CSS
 
 
 
