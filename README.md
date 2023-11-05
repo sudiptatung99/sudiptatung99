@@ -2,6 +2,12 @@
 
 Skills: ANGULAR / REACT JS / JS / Node JS / Laravel / HTML / CSS
 
+<p align="left">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/sudipta-tung-48a880232/">
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="sudipta-linkedin" height="20" style="padding-left: 100px;"/>
+  </a>
+</p>
+
 - 🔭 I’m currently working on **my course**
 
 - 🌱 I’m currently learning **React Native**
@@ -14,7 +20,7 @@ Skills: ANGULAR / REACT JS / JS / Node JS / Laravel / HTML / CSS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sudipta-tung-48a880232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sudipta-tung-48a880232/" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sudipta-tung-48a880232/" height="30" width="40" /></a>
 </p>
 
 
