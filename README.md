@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm Sudipta Tung</h1>
 
+Skills: ANGULAR / REACT JS / JS / Node JS / Laravel / HTML / CSS
+
 - 🔭 I’m currently working on **my course**
 
 - 🌱 I’m currently learning **React Native**
