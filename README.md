@@ -1,12 +1,12 @@
 
 
-<h1 align="center">Hi 👋, I'm Sudipta Tung</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h1 >Hi 👋, I'm Sudipta Tung</h1>
 
 - 🌱 I’m currently learning **React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
