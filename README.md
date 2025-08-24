@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Sudipta Tung</h1>
+<h1>Hi, I'm Sudipta Tung</h1>
 
 Skills: ANGULAR / REACT JS / JS / Node JS / Laravel / HTML / CSS
 
