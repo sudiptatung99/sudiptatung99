@@ -10,8 +10,6 @@ Skills: ANGULAR / REACT JS / JS / Node JS / Laravel / HTML / CSS
 
 - 🔭 I’m currently working on **my course**
 
-- 🌱 I’m currently learning **React Native**
-
 - 👯 I’m looking to collaborate on **on open source**
 
 - 🤝 I’m looking for help with **Web developer**
